@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2412.03075">
-    <img src="img/figure.png" style="height: 20em" alt="Kawi the SWE-Llama" />
+    <img src="img/fig.png" style="height: 20em" alt="Kawi the SWE-Llama" />
   </a>
 </p>
 
